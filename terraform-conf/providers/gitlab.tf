@@ -14,7 +14,7 @@ resource "gitlab_project" "test_project" {
 # Add a hook to the project
 resource "gitlab_project_hook" "test_project_hook" {
     project = gitlab_project.test_project.id
-    url = "https://192.168.2.28/project_hook"
+    url = "http://192.168.2.28/project_hook"
 }
 
 
