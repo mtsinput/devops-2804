@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/devops-2804.iml" filepath="$PROJECT_DIR$/.idea/devops-2804.iml" />
       <module fileurl="file://$PROJECT_DIR$/../devops-2804_sample/.idea/devops-2804_sample.iml" filepath="$PROJECT_DIR$/../devops-2804_sample/.idea/devops-2804_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../self_gitlab/.idea/self_gitlab.iml" filepath="$PROJECT_DIR$/../self_gitlab/.idea/self_gitlab.iml" />
     </modules>
   </component>
 </project>

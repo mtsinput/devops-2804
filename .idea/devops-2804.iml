@@ -7,5 +7,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="devops-2804_sample" />
+    <orderEntry type="module" module-name="self_gitlab" />
   </component>
 </module>
